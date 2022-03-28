@@ -18,6 +18,10 @@ ul{
     justify-content:space-around;
     padding-left: 0px;
     align-items: flex-end;
+    list-style: none;
+}
+a{
+    text-decoration: none;
 }
 img{
     width: 200px;
