@@ -1,5 +1,7 @@
 body{
     background-color: rgb(197, 128, 231);
+    list-style: none;
+    text-decoration: none;
 }
 img{
     width: 250px;
