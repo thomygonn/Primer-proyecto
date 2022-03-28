@@ -21,6 +21,13 @@ ul{
     align-items: flex-end;
     list-style: none;
 }
+.botonesHeader:hover{
+    padding: 1px;
+    border: 1px;
+    margin: 1px;
+    background-color: rgb(221, 162, 250);
+    border-radius: 5px;
+}
 a{
     text-decoration: none;
 }
