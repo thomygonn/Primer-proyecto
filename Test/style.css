@@ -27,3 +27,14 @@ img{
     width: 200px;
     height: 200px;
 }
+
+.copy{
+    text-align: center;
+}
+
+.footerRedes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
