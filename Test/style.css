@@ -23,10 +23,12 @@ ul{
     align-items: flex-end;
     list-style: none;
 }
+.botonesHeader{
+    padding: 2px;
+    border: 2px;
+    margin: 2px;
+}
 .botonesHeader:hover{
-    padding: 1px;
-    border: 1px;
-    margin: 1px;
     background-color: rgb(221, 162, 250);
     border-radius: 5px;
 }
