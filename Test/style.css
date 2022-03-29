@@ -45,7 +45,14 @@ img{
     padding: 10px;
     border: 1px;
     margin: 3px;
+    display: flex;
+    flex-direction: column;
 }
+.respuestas, .resp{
+    display: flex;
+}
+
+
 .copy{
     text-align: center;
 }
