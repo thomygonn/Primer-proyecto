@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+/*agregue una font pero si quieren la pueden cambiar*/
 body{
     background-color: rgb(197, 128, 231);
     list-style: none;
     text-decoration: none;
-   
+    font-family: 'Secular One', sans-serif;
 }
 /*header*/
 header{
@@ -36,6 +38,12 @@ img{
     height: 100px;
 }
 
+/*main*/
+.grupoPreg{
+    padding: 10px;
+    border: 1px;
+    margin: 3px;
+}
 .copy{
     text-align: center;
 }
@@ -51,7 +59,5 @@ img{
     display:flex;
     flex-direction: column;
     align-items: center;
-    
-    
 }
 
