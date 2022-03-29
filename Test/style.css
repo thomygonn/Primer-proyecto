@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@200&family=Josefin+Sans&family=Taviraj:ital,wght@1,200&display=swap');
 body{
-    background-color: rgb(197, 128, 231);
+    background-color: rgb(208, 149, 238);
     list-style: none;
     text-decoration: none;
     font-family: 'Taviraj', serif;
+    font-size: large;
     padding: 0%;
 }
 h1, label{
     font-family: 'Josefin Sans', sans-serif;
+    font-size: larger;
 }
 /*header*/
 header{
