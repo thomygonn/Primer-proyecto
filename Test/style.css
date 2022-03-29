@@ -45,11 +45,21 @@ img{
     padding: 10px;
     border: 1px;
     margin: 3px;
+    align-items: center;
     display: flex;
     flex-direction: column;
 }
-.respuestas, .resp{
+.respuestas{
     display: flex;
+    flex-direction: column;
+}
+/*no figura el color cuando le agrego, quiero ponerle un padding/margen y un fondo blanco medio transparente
+tampoco se como hacer que el puntito salga al lado de la pregunta y no arriba*/
+.resp{
+    background: white;
+    padding: 5px;
+    border: 1px;
+    margin: 5px;
 }
 
 
