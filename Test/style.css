@@ -1,11 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
-/*agregue una font pero si quieren la pueden cambiar*/
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@200&family=Josefin+Sans&family=Taviraj:ital,wght@1,200&display=swap');
 body{
     background-color: rgb(197, 128, 231);
     list-style: none;
     text-decoration: none;
-    font-family: 'Secular One', sans-serif;
+    font-family: 'Taviraj', serif;
     padding: 0%;
+}
+h1, label{
+    font-family: 'Josefin Sans', sans-serif;
 }
 /*header*/
 header{
@@ -68,7 +70,7 @@ img{
 .footerRedes:hover {
     background-color: rgb(221, 162, 250);
     border-radius: 5px;
-    
+
 }
 
 .direccion{
