@@ -46,3 +46,12 @@ img{
     justify-content: center;
     
 }
+
+.direccion{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+
