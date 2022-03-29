@@ -43,23 +43,17 @@ img{
 }
 
 /*main*/
-.grupoPreg{
+.grupoPreg {
+    width: 65%;
     padding: 10px;
     border: 1px;
     margin: 3px;
     align-items: center;
-    display: flex;
-    flex-direction: column;
-}
-.grupoPreg {
-    width: 65%;
     background-color: rgba(117, 24, 163, 0.377);
     display: flex;
     flex-flow: column nowrap;
     letter-spacing: 0.3px; /*hay que ver cuando lo completemos como queda*/
     margin: 50px 50px 30px 200px;
-    
-    
 }
 .copy{
     text-align: center;
