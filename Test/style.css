@@ -47,7 +47,11 @@ img{
     padding: 10px;
     border: 1px;
     margin: 3px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
 }
+<<<<<<< HEAD
 .grupoPreg {
     width: 65%;
     background-color: rgba(117, 24, 163, 0.377);
@@ -58,6 +62,22 @@ img{
     
     
 }
+=======
+.respuestas{
+    display: flex;
+    flex-direction: column;
+}
+/*no figura el color cuando le agrego, quiero ponerle un padding/margen y un fondo blanco medio transparente
+tampoco se como hacer que el puntito salga al lado de la pregunta y no arriba*/
+.resp{
+    background: white;
+    padding: 5px;
+    border: 1px;
+    margin: 5px;
+}
+
+
+>>>>>>> e6fcc99a9e640160b50e16b82904c602650faf46
 .copy{
     text-align: center;
 }
